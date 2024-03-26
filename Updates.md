@@ -5,3 +5,6 @@ We started the Journey Mar 11, 2024
 **Week 2**: we went through part of the next.js learning
 
 **Week 3**: we are working on finishing the next.js dashboard app building
+
+**Week 4**: Database & TRPC / API creation excercise
+
