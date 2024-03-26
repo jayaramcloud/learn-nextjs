@@ -8,3 +8,7 @@ We started the Journey Mar 11, 2024
 
 **Week 4**: Database & TRPC / API creation excercise
 
+**Week 5**: Build and deploy in vercel
+
+**Week 6**: Build and deploy node.js to a container
+
