@@ -1,8 +1,8 @@
 We started the Journey Mar 11, 2024
 
-**Week 1**: we went through the site and completed the react learning.
+**Week 1**: we went through the site and completed the react learning. https://nextjs.org/learn/react-foundations
 
-**Week 2**: we went through part of the next.js learning.
+**Week 2**: we went through part of the next.js learning. https://nextjs.org/learn/dashboard-app
 
 **Week 3**: we are working on finishing the next.js dashboard app building.
 
@@ -10,7 +10,7 @@ We started the Journey Mar 11, 2024
 
 **Week 5**: Database & TRPC / API creation excercise.
 
-**Week 6**: Use Stripe. Build and deploy in Vercel.
+**Week 6**: Use Stripe in dev environment. Build and deploy in Vercel.
 https://vercel.com/docs/production-checklist.
 
 **Week 7**: Build and deploy node.js to a container.
